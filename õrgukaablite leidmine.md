@@ -1,7 +1,27 @@
- Erinevused kiudoptilise kaabli, võrgukaabli ja kaabli vahel 
- 
-# Võrgukaablite tüüpid 
- 
+# Võrgukaablite tüübid
+
+Uuri ja kirjelda vähemalt 3 erinevat võrgukaablit (nt keerdpaar-, koaksiaal-, fiiberoptiline).
+Too iga kaabli puhul välja:
+
+kasutusala (kus ja milleks kasutatakse),
+eelised ja puudused,
+kas seda oleks realistlik tunnis ise otsastada.
+Tunnis otsastamiseks sobivad kaablid
+
+Selgita, milliseid kaableid saab kõige lihtsamalt ise otsastada (nt Cat5e/Cat6 keerdpaar-RJ45 otsikutega).
+Leia RJ45 pistikud ning keystoneid, mida otsastamisel kasutada.
+Põhjenda, miks just neid on sobiv kasutada õppeülesandes.
+Tööriistad otsastamiseks
+
+Too välja vajalikud tööriistad (näiteks krimpimistangid, kaablikoorija, lõiketangid,Punch down tool).
+Lisa lühike kirjeldus, milleks iga tööriista kasutatakse.
+Testimine
+
+Uuri, milliseid seadmeid kasutatakse kaabli kontrollimiseks (nt kaablitestija, võrgukaardi kasutamine arvutis).
+Selgita, kuidas kontrollida, kas kaabel töötab korrektselt.
+
+ # Erinevused kiudoptilise kaabli, võrgukaabli ja kaabli vahel 
+  
 Kiudoptiline kaabel 
 Uue põlvkonna edastusmeedium. Võrreldes vaskkandjaga on optiline kiud turvalisuse, töökindluse ja võrgu jõudluse osas oluliselt paranenud. Lisaks ületab kiudoptilise edastuse ribalaius oluliselt vaskkaabli oma ja maksimaalne toetatud ühenduskaugus on üle kahe kilomeetri, mis on vältimatu valik suuremahulise võrgu ehitamisel.  
  
